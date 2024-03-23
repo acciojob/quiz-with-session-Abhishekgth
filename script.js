@@ -1,6 +1,4 @@
-//your JS code here.
-
-// Do not change code below this lineconst questions = [
+const questions = [
   {
     question: "What is the capital of France?",
     choices: ["Paris", "London", "Berlin", "Madrid"],
